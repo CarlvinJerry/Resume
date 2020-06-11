@@ -74,16 +74,16 @@ Aside
 
 - For more information, kindly contact me via email.
 
-<br>
---------------------------------------------------------------------------------
+<!-- <br> -->
+<!-- -------------------------------------------------------------------------------- -->
 
 
 
-### LANGUAGE SKILLS
+<!-- ### LANGUAGE SKILLS -->
 
-```{r}
- CV %<>% print_skill_bars()
-```
+<!-- ```{r} -->
+<!--  CV %<>% print_skill_bars() -->
+<!-- ``` -->
 
 
 
@@ -114,7 +114,13 @@ Industry Experience {data-icon=suitcase}
 
 ::: aside 
 
-<br><br>
+### LANGUAGE SKILLS
+```{r}
+ CV %<>% print_skill_bars()
+```
+
+
+<br>
 
 I have worked in a variety of roles mainly revolving research & development and data science. I like collaborative environments where I can learn from my peers. Capable of working well both individually as well as in groups with minimum or no supervision and 
 follow through assignments.
