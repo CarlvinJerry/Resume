@@ -77,7 +77,26 @@ Aside
 <!-- <br> -->
 <!-- -------------------------------------------------------------------------------- -->
 
+<br>
 
+
+<!-- ###SKILLZZ -->
+
+<!-- <i class="fab fa-r-project"></i> `R` -->
+
+<!-- <i class="far fa-chart-bar"></i> `tidyverse` -->
+
+<!-- <i class="fas fa-code-branch"></i> `Git` -->
+
+<!-- <i class="fab fa-github"></i> `GitHub` -->
+
+<!-- <i class="fab fa-markdown"></i> `Markdown` -->
+
+<!-- <i class="fab fa-html5"></i> `HTML` -->
+
+<!-- <i class="fab fa-css3-alt"></i> `CSS` -->
+
+<!-- <br><br> -->
 
 <!-- ### LANGUAGE SKILLS -->
 
@@ -85,7 +104,7 @@ Aside
 <!--  CV %<>% print_skill_bars() -->
 <!-- ``` -->
 
-
+<!-- <br><br> -->
 
 Main
 ================================================================================
@@ -107,29 +126,39 @@ Education {data-icon=graduation-cap data-concise=true}
 CV %<>% print_section('education')
 ```
 
-<br><br><br>
+<br>
 
 Industry Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ::: aside 
 
-### LANGUAGE SKILLS
-```{r}
- CV %<>% print_skill_bars()
-```
+## SKILLS
+
+<i class="fas fa-file-code"></i> `F# - Functional programming`
+
+<i class="fas fa-file-code"></i> `Julia - Numerical Computing`
+
+<i class="fas fa-chart-bar"></i> `Power BI / Tableau`
+
+<i class="fab fa-python"></i> `Python - Data Analysis & ML`
+
+<i class="fab fa-r-project"></i> `R(tidyverse, Shiny) - Data Analysis & ML`
+
+<i class="fas fa-database"></i> `SQL - DBMS`
 
 
-<br>
 
-I have worked in a variety of roles mainly revolving research & development and data science. I like collaborative environments where I can learn from my peers. Capable of working well both individually as well as in groups with minimum or no supervision and 
-follow through assignments.
+
+I have worked in a variety of roles mainly revolving research & development in data analytics. I like collaborative environments where I can learn from my peers. Capable of working well both individually as well as in teams with minimum or no supervision and follow through assignments.
 
 ::: 
 
 ```{r}
 CV %<>% print_section('industry_positions')
 ```
+
+
 
 <!-- These breaks just force a new page so section doesnt get cut off -->
 <br>
@@ -144,7 +173,8 @@ CV %<>% print_section('industry_positions')
 <br>
 <br>
 <br>
-<br><br>
+<br>
+<br>
 
 
 Selected Data Science Writing {data-icon=chart-line}
@@ -152,7 +182,7 @@ Selected Data Science Writing {data-icon=chart-line}
 
 ::: aside
 
-I regularly blog on data science and visualization on my personal website.
+Being an avid data analyst, I challenge myself often to tackle different data analysis & visualization problems.Findings from these challenges are documented on my personal blog.
 
 :::
 
